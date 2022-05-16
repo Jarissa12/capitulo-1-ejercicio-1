@@ -1,0 +1,16 @@
+C:\Users\nicole\Desktop\tarea a\bin\Debug\net5.0\tarea a.exe
+C:\Users\nicole\Desktop\tarea a\bin\Debug\net5.0\tarea a.deps.json
+C:\Users\nicole\Desktop\tarea a\bin\Debug\net5.0\tarea a.runtimeconfig.json
+C:\Users\nicole\Desktop\tarea a\bin\Debug\net5.0\tarea a.runtimeconfig.dev.json
+C:\Users\nicole\Desktop\tarea a\bin\Debug\net5.0\tarea a.dll
+C:\Users\nicole\Desktop\tarea a\bin\Debug\net5.0\ref\tarea a.dll
+C:\Users\nicole\Desktop\tarea a\bin\Debug\net5.0\tarea a.pdb
+C:\Users\nicole\Desktop\tarea a\obj\Debug\net5.0\tarea a.csprojAssemblyReference.cache
+C:\Users\nicole\Desktop\tarea a\obj\Debug\net5.0\tarea a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicole\Desktop\tarea a\obj\Debug\net5.0\tarea a.AssemblyInfoInputs.cache
+C:\Users\nicole\Desktop\tarea a\obj\Debug\net5.0\tarea a.AssemblyInfo.cs
+C:\Users\nicole\Desktop\tarea a\obj\Debug\net5.0\tarea a.csproj.CoreCompileInputs.cache
+C:\Users\nicole\Desktop\tarea a\obj\Debug\net5.0\tarea a.dll
+C:\Users\nicole\Desktop\tarea a\obj\Debug\net5.0\ref\tarea a.dll
+C:\Users\nicole\Desktop\tarea a\obj\Debug\net5.0\tarea a.pdb
+C:\Users\nicole\Desktop\tarea a\obj\Debug\net5.0\tarea a.genruntimeconfig.cache

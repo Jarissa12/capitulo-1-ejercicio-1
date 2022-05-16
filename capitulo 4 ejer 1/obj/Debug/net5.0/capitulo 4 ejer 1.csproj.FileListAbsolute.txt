@@ -1,0 +1,16 @@
+C:\Users\nicole\Desktop\capitulo 4 ejer 1\bin\Debug\net5.0\capitulo 4 ejer 1.exe
+C:\Users\nicole\Desktop\capitulo 4 ejer 1\bin\Debug\net5.0\capitulo 4 ejer 1.deps.json
+C:\Users\nicole\Desktop\capitulo 4 ejer 1\bin\Debug\net5.0\capitulo 4 ejer 1.runtimeconfig.json
+C:\Users\nicole\Desktop\capitulo 4 ejer 1\bin\Debug\net5.0\capitulo 4 ejer 1.runtimeconfig.dev.json
+C:\Users\nicole\Desktop\capitulo 4 ejer 1\bin\Debug\net5.0\capitulo 4 ejer 1.dll
+C:\Users\nicole\Desktop\capitulo 4 ejer 1\bin\Debug\net5.0\ref\capitulo 4 ejer 1.dll
+C:\Users\nicole\Desktop\capitulo 4 ejer 1\bin\Debug\net5.0\capitulo 4 ejer 1.pdb
+C:\Users\nicole\Desktop\capitulo 4 ejer 1\obj\Debug\net5.0\capitulo 4 ejer 1.csprojAssemblyReference.cache
+C:\Users\nicole\Desktop\capitulo 4 ejer 1\obj\Debug\net5.0\capitulo 4 ejer 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicole\Desktop\capitulo 4 ejer 1\obj\Debug\net5.0\capitulo 4 ejer 1.AssemblyInfoInputs.cache
+C:\Users\nicole\Desktop\capitulo 4 ejer 1\obj\Debug\net5.0\capitulo 4 ejer 1.AssemblyInfo.cs
+C:\Users\nicole\Desktop\capitulo 4 ejer 1\obj\Debug\net5.0\capitulo 4 ejer 1.csproj.CoreCompileInputs.cache
+C:\Users\nicole\Desktop\capitulo 4 ejer 1\obj\Debug\net5.0\capitulo 4 ejer 1.dll
+C:\Users\nicole\Desktop\capitulo 4 ejer 1\obj\Debug\net5.0\ref\capitulo 4 ejer 1.dll
+C:\Users\nicole\Desktop\capitulo 4 ejer 1\obj\Debug\net5.0\capitulo 4 ejer 1.pdb
+C:\Users\nicole\Desktop\capitulo 4 ejer 1\obj\Debug\net5.0\capitulo 4 ejer 1.genruntimeconfig.cache

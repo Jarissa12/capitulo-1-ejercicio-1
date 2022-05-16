@@ -1,0 +1,16 @@
+C:\Users\nicole\Desktop\capitulo 2 ejercicio 3\bin\Debug\net5.0\capitulo 2 ejercicio 3.exe
+C:\Users\nicole\Desktop\capitulo 2 ejercicio 3\bin\Debug\net5.0\capitulo 2 ejercicio 3.deps.json
+C:\Users\nicole\Desktop\capitulo 2 ejercicio 3\bin\Debug\net5.0\capitulo 2 ejercicio 3.runtimeconfig.json
+C:\Users\nicole\Desktop\capitulo 2 ejercicio 3\bin\Debug\net5.0\capitulo 2 ejercicio 3.runtimeconfig.dev.json
+C:\Users\nicole\Desktop\capitulo 2 ejercicio 3\bin\Debug\net5.0\capitulo 2 ejercicio 3.dll
+C:\Users\nicole\Desktop\capitulo 2 ejercicio 3\bin\Debug\net5.0\ref\capitulo 2 ejercicio 3.dll
+C:\Users\nicole\Desktop\capitulo 2 ejercicio 3\bin\Debug\net5.0\capitulo 2 ejercicio 3.pdb
+C:\Users\nicole\Desktop\capitulo 2 ejercicio 3\obj\Debug\net5.0\capitulo 2 ejercicio 3.csprojAssemblyReference.cache
+C:\Users\nicole\Desktop\capitulo 2 ejercicio 3\obj\Debug\net5.0\capitulo 2 ejercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicole\Desktop\capitulo 2 ejercicio 3\obj\Debug\net5.0\capitulo 2 ejercicio 3.AssemblyInfoInputs.cache
+C:\Users\nicole\Desktop\capitulo 2 ejercicio 3\obj\Debug\net5.0\capitulo 2 ejercicio 3.AssemblyInfo.cs
+C:\Users\nicole\Desktop\capitulo 2 ejercicio 3\obj\Debug\net5.0\capitulo 2 ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\nicole\Desktop\capitulo 2 ejercicio 3\obj\Debug\net5.0\capitulo 2 ejercicio 3.dll
+C:\Users\nicole\Desktop\capitulo 2 ejercicio 3\obj\Debug\net5.0\ref\capitulo 2 ejercicio 3.dll
+C:\Users\nicole\Desktop\capitulo 2 ejercicio 3\obj\Debug\net5.0\capitulo 2 ejercicio 3.pdb
+C:\Users\nicole\Desktop\capitulo 2 ejercicio 3\obj\Debug\net5.0\capitulo 2 ejercicio 3.genruntimeconfig.cache
